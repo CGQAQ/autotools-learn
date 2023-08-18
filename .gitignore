@@ -1,0 +1,4 @@
+/helloworld/*
+!/helloworld/configure.ac
+!/helloworld/main.c
+!/helloworld/Makefile.am
